@@ -5,6 +5,7 @@ window.jQuery = function(nodeOrSelector){
   return nodes
   //test
   //test2
+  //提交得时候怎么不用写东西
 }
 window.$ = window.jQuery
 
