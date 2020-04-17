@@ -7,6 +7,7 @@ window.jQuery = function(nodeOrSelector){
   //test2
   //提交得时候怎么不用写东西
   //测试4
+  //test5
 }
 window.$ = window.jQuery
 
