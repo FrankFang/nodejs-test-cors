@@ -4,6 +4,7 @@ window.jQuery = function(nodeOrSelector){
   nodes.html = function(){}
   return nodes
   //test
+  //test2
 }
 window.$ = window.jQuery
 
