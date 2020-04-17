@@ -3,6 +3,7 @@ window.jQuery = function(nodeOrSelector){
   nodes.addClass = function(){}
   nodes.html = function(){}
   return nodes
+  //test
 }
 window.$ = window.jQuery
 
